@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project presents the **design and simulation of a 4-way traffic signal controller** using **digital logic and timing circuits**. It is developed as part of the *Digital Logic Design* course at **Ghulam Khan Institute of Engineering Science and Technology (GKIST), Pakistan**.
+This project presents the **design and simulation of a 4-way traffic signal controller** using **digital logic and timing circuits**. It is developed as part of the *Digital Logic Design* course at **Ghulam Ishaq Khan Institute of Engineering Science and Technology (GIKI), Pakistan**.
 
 The system controls traffic flow at a four-way intersection by sequentially activating **Green, Yellow, and Red** signals for each direction while ensuring that **no two directions receive a green signal simultaneously**. The project emphasizes reliability, safety, and scalability using fundamental digital electronics components.
 
@@ -119,7 +119,7 @@ The circuit is simulated using **Proteus Design Suite** to validate functionalit
 
 * **Course:** Digital Logic Design
 * **Instructor:** Dr. Adnan Shah
-* **Institute:** Ghulam Khan Institute of Engineering Science and Technology (GKIST)
+* **Institute:** Ghulam Ishaq Khan Institute of Engineering Science and Technology (GIKI)
 
 ---
 
